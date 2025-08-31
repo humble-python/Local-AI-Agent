@@ -3,7 +3,7 @@
     by following the YouTube video "How to Build a Local AI Agent With
     Python (Ollama,LangChain & RAG)" by Tech With Tim.
 
-    Coder: Virginia Yan 
+    Coder: humble-python
     Date: 08/31/2025
 """
 from langchain_ollama.llms import OllamaLLM
